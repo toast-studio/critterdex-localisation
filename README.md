@@ -4,6 +4,8 @@ First of all thank you for helping with this. CritterDex is a PWA for Animal Cro
 
 I have performed machine translation on the other 10 languages (Critters and a few other things use official translations pulled from the game). I am in need of people to check the translations and submit corrections. To see this in action please use [the staging version of CritterDex](https://stage.critterdex.app). Thanks!
 
+If you don't have a Github account you can still submit corrections to toaststudioinbox@gmail.com
+
 ## Langauges
 Below are the languages available for translation. Anything crossed out has already been reviewed by a native speaker:
 
