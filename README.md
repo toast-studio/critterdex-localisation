@@ -11,7 +11,7 @@ Below are the languages available for translation. Anything crossed out has alre
 - ~German~
 - ~Spanish~
 - ~French~
-- Italian
+- ~Italian~
 - Japanese
 - Korean
 - Dutch
