@@ -105,6 +105,8 @@
 		"shadow": "shadow",
 		"boost": "Catch rate boosted",
 		"messageNoCritters": "No critters found",
+		"messageNoArrivingCritters": "No new critters in",
+		"messageNoLeavingCritters": "No critters leaving at the end of",
 		"prices": "Prices",
 		"nooksCranny": "Nook's Cranny",
 		"dropbox": "Dropbox",

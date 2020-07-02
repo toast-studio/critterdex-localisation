@@ -105,6 +105,8 @@
 		"shadow": "Schatten",
 		"boost": "Fangrate erhöht",
 		"messageNoCritters": "Keine Tiere gefunden",
+		"messageNoArrivingCritters": "Keine neuen Tiere in",
+		"messageNoLeavingCritters": "Keine Tiere am Ende von",
 		"prices": "Preise",
 		"nooksCranny": "Nooks Laden",
 		"dropbox": "Dropbox",

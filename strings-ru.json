@@ -105,6 +105,8 @@
 		"shadow": "тень",
 		"boost": "Скорость вылова увеличена",
 		"messageNoCritters": "Существ не найдено",
+		"messageNoArrivingCritters": "Нет новых тварей в",
+		"messageNoLeavingCritters": "Никаких тварей не осталось в конце",
 		"prices": "Цены",
 		"nooksCranny": "Лавка Нука",
 		"dropbox": "Dropbox",

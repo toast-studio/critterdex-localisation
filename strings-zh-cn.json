@@ -105,6 +105,8 @@
 		"shadow": "阴影",
 		"boost": "捕获率提高",
 		"messageNoCritters": "找不到小动物",
+		"messageNoArrivingCritters": "没有新的生物",
+		"messageNoLeavingCritters": "末尾没有小动物",
 		"prices": "价格",
 		"nooksCranny": "Nook's Cranny",
 		"dropbox": "投寄箱",

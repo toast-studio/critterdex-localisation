@@ -105,6 +105,8 @@
 		"shadow": "影",
 		"boost": "キャッチ率が向上",
 		"messageNoCritters": "生き物は見つかりませんでした",
+		"messageNoArrivingCritters": "に新しい生き物はいない",
+		"messageNoLeavingCritters": "の終わりに残らない生き物",
 		"prices": "価格",
 		"nooksCranny": "너굴상점",
 		"dropbox": "ドロップボックス",

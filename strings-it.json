@@ -105,6 +105,8 @@
 		"shadow": "ombra",
 		"boost": "Boost di Pesca",
 		"messageNoCritters": "Nessun critter trovato",
+		"messageNoArrivingCritters": "Non ci sono nuove critter",
+		"messageNoLeavingCritters": "Nessuna critter in partenza alla fine di",
 		"prices": "Prezzi",
 		"nooksCranny": "La bottega di Nook",
 		"dropbox": "Dropbox",

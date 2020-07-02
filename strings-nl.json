@@ -105,6 +105,8 @@
 		"shadow": "schaduw",
 		"boost": "Vangstpercentage verhoogd",
 		"messageNoCritters": "Geen wezens gevonden",
+		"messageNoArrivingCritters": "Geen nieuwe wezens binnen",
+		"messageNoLeavingCritters": "Geen wezens die eind",
 		"prices": "Prijzen",
 		"nooksCranny": "Nooks Hoek",
 		"dropbox": "Dropbox",

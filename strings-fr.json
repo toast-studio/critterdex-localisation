@@ -105,6 +105,8 @@
 		"shadow": "ombre",
 		"boost": "Boost de capture",
 		"messageNoCritters": "Aucune bestiole trouvée",
+		"messageNoArrivingCritters": "Pas de nouvelles bestiole dans",
+		"messageNoLeavingCritters": "Aucune bestiole ne part à la fin de",
 		"prices": "Prix",
 		"nooksCranny": "Boutique Nook",
 		"dropbox": "Boite de dépôt",

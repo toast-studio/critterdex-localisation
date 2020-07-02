@@ -105,6 +105,8 @@
 		"shadow": "sombra",
 		"boost": "Tasa de captura aumentada",
 		"messageNoCritters": "No se encontraron bichos",
+		"messageNoArrivingCritters": "No hay nuevas bichos en",
+		"messageNoLeavingCritters": "No hay bichos que se van al final de",
 		"prices": "Precios",
 		"nooksCranny": "MiniNook",
 		"dropbox": "Buzón de compraventa",
