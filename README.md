@@ -6,14 +6,13 @@ I have performed machine translation on the other 10 languages (Critters and a f
 
 If you don't have a Github account you can still submit corrections to toaststudioinbox@gmail.com
 
-## Langauges
-Below are the languages available for translation. Anything crossed out has already been reviewed by a native speaker:
+## Languages available for translation
 
-- ~English~
-- ~German~
-- ~Spanish~
-- ~French~
-- ~Italian~
+- English
+- German
+- Spanish
+- French
+- Italian
 - Japanese
 - Korean
 - Dutch
