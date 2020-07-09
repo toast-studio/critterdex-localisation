@@ -46,6 +46,8 @@
 		"headingHemisphere": "半球",
 		"headingCatchBoost": "趕上升壓",
 		"headingMovement": "移動速度",
+		"headingDifficulty": "趕上難度",
+		"headingVision": "視力",
 		"any": "任何",
 		"anyTime": "任何時候",
 		"all": "所有",
@@ -73,6 +75,7 @@
 		"shadowVery Large": "很大",
 		"shadowLong": "長",
 		"shadowHuge": "巨大",
+		"shadowFin": "鰭",
 		"weatherClear": "明確",
 		"weatherRain": "雨",
 		"weatherSnow": "雪",
@@ -481,5 +484,19 @@
 		"Medium": "中",
 		"Fast": "快速",
 		"Very fast": "非常快"
+	},
+	"difficulty": {
+		"Very Easy": "好簡單",
+		"Easy": "簡單",
+		"Medium": "中",
+		"Hard": "硬",
+		"Very Hard": "很難"
+	},
+	"vision": {
+		"Very Narrow": "非常窄",
+		"Narrow": "狹窄",
+		"Medium": "中",
+		"Wide": "寬",
+		"Very Wide": "很廣闊"
 	}
 }

@@ -46,6 +46,8 @@
 		"headingHemisphere": "Hemisphere",
 		"headingCatchBoost": "Catch Boost",
 		"headingMovement": "Movement Speed",
+		"headingDifficulty": "Catch Difficulty",
+		"headingVision": "Vision",
 		"any": "Any",
 		"anyTime": "Any Time",
 		"all": "All",
@@ -73,6 +75,7 @@
 		"shadowVery Large": "Very Large",
 		"shadowLong": "Long",
 		"shadowHuge": "Huge",
+		"shadowFin": "Finned",
 		"weatherClear": "Clear",
 		"weatherRain": "Rain",
 		"weatherSnow": "Snow",
@@ -481,5 +484,19 @@
 		"Medium": "Medium",
 		"Fast": "Fast",
 		"Very fast": "Very Fast"
+	},
+	"difficulty": {
+		"Very Easy": "Very Easy",
+		"Easy": "Easy",
+		"Medium": "Medium",
+		"Hard": "Hard",
+		"Very Hard": "Very Hard"
+	},
+	"vision": {
+		"Very Narrow": "Very Narrow",
+		"Narrow": "Narrow",
+		"Medium": "Medium",
+		"Wide": "Wide",
+		"Very Wide": "Very Wide"
 	}
 }

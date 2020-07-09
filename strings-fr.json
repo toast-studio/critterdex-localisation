@@ -46,6 +46,8 @@
 		"headingHemisphere": "Hémisphère",
 		"headingCatchBoost": "Bonus de capture",
 		"headingMovement": "Vitesse de Mouvement",
+		"headingDifficulty": "Difficulté de Capture",
+		"headingVision": "Vision",
 		"any": "Tout",
 		"anyTime": "Tout le temps",
 		"all": "Tout",
@@ -73,6 +75,7 @@
 		"shadowVery Large": "Très Grande",
 		"shadowLong": "Longue",
 		"shadowHuge": "Énorme",
+		"shadowFin": "Aileron",
 		"weatherClear": "Ensoleillé",
 		"weatherRain": "Pluie",
 		"weatherSnow": "Neige",
@@ -480,5 +483,19 @@
 		"Medium": "Moyenne",
 		"Fast": "Vite",
 		"Very fast": "Très Vite"
+	},
+	"difficulty": {
+		"Very Easy": "Très Facile",
+		"Easy": "Facile",
+		"Medium": "Moyenne",
+		"Hard": "Dur",
+		"Very Hard": "Très Dur"
+	},
+	"vision": {
+		"Very Narrow": "Très Étroit",
+		"Narrow": "Étroit",
+		"Medium": "Moyenne",
+		"Wide": "Large",
+		"Very Wide": "Très Large"
 	}
 }

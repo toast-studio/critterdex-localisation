@@ -46,6 +46,8 @@
 		"headingHemisphere": "полусфера",
 		"headingCatchBoost": "Увеличение улова",
 		"headingMovement": "Скорость движения",
+		"headingDifficulty": "Поймать Сложность",
+		"headingVision": "видение",
 		"any": "Любые",
 		"anyTime": "Любое время",
 		"all": "Все",
@@ -73,6 +75,7 @@
 		"shadowVery Large": "Очень большой",
 		"shadowLong": "Длинный",
 		"shadowHuge": "огромный",
+		"shadowFin": "Плавник",
 		"weatherClear": "Очистить",
 		"weatherRain": "дождь",
 		"weatherSnow": "Снег",
@@ -481,5 +484,19 @@
 		"Medium": "средний",
 		"Fast": "Быстро",
 		"Very fast": "Очень быстро"
+	},
+	"difficulty": {
+		"Very Easy": "Очень просто",
+		"Easy": "Легко",
+		"Medium": "средний",
+		"Hard": "Жесткий",
+		"Very Hard": "Очень сложно"
+	},
+	"vision": {
+		"Very Narrow": "Очень узкий",
+		"Narrow": "Ограниченный",
+		"Medium": "средний",
+		"Wide": "широкий",
+		"Very Wide": "Очень широкий"
 	}
 }

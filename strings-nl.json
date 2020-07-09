@@ -46,6 +46,8 @@
 		"headingHemisphere": "Halfrond",
 		"headingCatchBoost": "Vangstoename",
 		"headingMovement": "Bewegingssnelheid",
+		"headingDifficulty": "Vang Moeilijkheidsgraad",
+		"headingVision": "Visie",
 		"any": "Ieder",
 		"anyTime": "Elk Moment",
 		"all": "Allemaal",
@@ -73,6 +75,7 @@
 		"shadowVery Large": "Erg Groot",
 		"shadowLong": "Lang",
 		"shadowHuge": "Reusachtig",
+		"shadowFin": "Vin",
 		"weatherClear": "Doorzichtig",
 		"weatherRain": "Regen",
 		"weatherSnow": "Sneeuw",
@@ -481,5 +484,19 @@
 		"Medium": "Medium",
 		"Fast": "Snel",
 		"Very fast": "Erg Snel"
+	},
+	"difficulty": {
+		"Very Easy": "Erg Makkelijk",
+		"Easy": "Gemakkelijk",
+		"Medium": "Medium",
+		"Hard": "Moeilijk",
+		"Very Hard": "Heel Moeilijk"
+	},
+	"vision": {
+		"Very Narrow": "Heel Smal",
+		"Narrow": "Smal",
+		"Medium": "Medium",
+		"Wide": "Breed",
+		"Very Wide": "Heel Breed"
 	}
 }

@@ -46,6 +46,8 @@
 		"headingHemisphere": "Emisfero",
 		"headingCatchBoost": "Boost di Pesca",
 		"headingMovement": "Velocità di Movimento",
+		"headingDifficulty": "Difficoltà di Cattura",
+		"headingVision": "Visione",
 		"any": "Qualunque",
 		"anyTime": "In Qualsiasi Momento",
 		"all": "Tutti",
@@ -73,6 +75,7 @@
 		"shadowVery Large": "Molto Largo",
 		"shadowLong": "Lungo",
 		"shadowHuge": "Enorme",
+		"shadowFin": "Pinna",
 		"weatherClear": "Chiaro",
 		"weatherRain": "Pioggia",
 		"weatherSnow": "Neve",
@@ -481,5 +484,19 @@
 		"Medium": "Medio",
 		"Fast": "Veloce",
 		"Very fast": "Molto Veloce"
+	},
+	"difficulty": {
+		"Very Easy": "Molto Facile",
+		"Easy": "Facile",
+		"Medium": "Medio",
+		"Hard": "Difficile",
+		"Very Hard": "Molto Difficile"
+	},
+	"vision": {
+		"Very Narrow": "Molto Stretto",
+		"Narrow": "Stretto",
+		"Medium": "Medio",
+		"Wide": "Largo",
+		"Very Wide": "Molto Ampio"
 	}
 }

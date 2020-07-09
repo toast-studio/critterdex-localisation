@@ -46,6 +46,8 @@
 		"headingHemisphere": "半球",
 		"headingCatchBoost": "キャッチブースト",
 		"headingMovement": "移動速度",
+		"headingDifficulty": "キャッチの難しさ",
+		"headingVision": "ビジョン",
 		"any": "どれか",
 		"anyTime": "どんなときも",
 		"all": "すべて",
@@ -73,6 +75,7 @@
 		"shadowVery Large": "非常に大きい",
 		"shadowLong": "長いです",
 		"shadowHuge": "巨大な",
+		"shadowFin": "フィン付き",
 		"weatherClear": "晴れ",
 		"weatherRain": "雨",
 		"weatherSnow": "雪",
@@ -481,5 +484,19 @@
 		"Medium": "中",
 		"Fast": "速い",
 		"Very fast": "とても早い"
+	},
+	"difficulty": {
+		"Very Easy": "非常に簡単",
+		"Easy": "かんたん",
+		"Medium": "中",
+		"Hard": "ハード",
+		"Very Hard": "とても厳しい"
+	},
+	"vision": {
+		"Very Narrow": "非常に狭い",
+		"Narrow": "狭い",
+		"Medium": "中",
+		"Wide": "ワイド",
+		"Very Wide": "非常に広い"
 	}
 }

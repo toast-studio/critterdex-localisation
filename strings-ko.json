@@ -46,6 +46,8 @@
 		"headingHemisphere": "반구",
 		"headingCatchBoost": "캐치 부스트",
 		"headingMovement": "이동 속도",
+		"headingDifficulty": "캐치 난이도",
+		"headingVision": "전망",
 		"any": "어떤",
 		"anyTime": "언제든지",
 		"all": "모두",
@@ -73,6 +75,7 @@
 		"shadowVery Large": "매우 큰",
 		"shadowLong": "긴",
 		"shadowHuge": "거대한",
+		"shadowFin": "지느러미",
 		"weatherClear": "명확한",
 		"weatherRain": "비",
 		"weatherSnow": "눈",
@@ -481,5 +484,19 @@
 		"Medium": "매질",
 		"Fast": "빠른",
 		"Very fast": "매우 빠름"
+	},
+	"difficulty": {
+		"Very Easy": "아주 쉽게",
+		"Easy": "쉬운",
+		"Medium": "매질",
+		"Hard": "단단한",
+		"Very Hard": "열심히"
+	},
+	"vision": {
+		"Very Narrow": "매우 좁은",
+		"Narrow": "제한된",
+		"Medium": "매질",
+		"Wide": "넓은",
+		"Very Wide": "매우 넓다"
 	}
 }
