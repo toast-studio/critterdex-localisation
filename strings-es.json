@@ -1,7 +1,7 @@
 {
 	"tab": {
 		"critters": "Bichos",
-		"current": "Actual",
+		"current": "Disponible",
 		"islands": "Islas",
 		"info": "Información"
 	},
@@ -101,6 +101,7 @@
 		"locationUnderground": "Subterráneo",
 		"locationLights": "Luces",
 		"locationBushes": "Arbustos",
+		"locationCandy": "Dulce",
 		"hemisphereNorthern": "Norteño",
 		"hemisphereSouthern": "Meridional",
 		"No boost": "Sin impulso",
@@ -110,8 +111,8 @@
 		"shadow": "sombra",
 		"boost": "Tasa de captura aumentada",
 		"messageNoCritters": "No se encontraron bichos",
-		"messageNoArrivingCritters": "No hay nuevas bichos en",
-		"messageNoLeavingCritters": "No hay bichos que se van al final de",
+		"messageNoArrivingCritters": "No hay nuevas bichos",
+		"messageNoLeavingCritters": "No se van las bichos",
 		"prices": "Precios",
 		"nooksCranny": "MiniNook",
 		"dropbox": "Buzón de compraventa",
@@ -132,6 +133,8 @@
 		"allDay": "Todo el dia",
 		"availabilitynorthern": "Disponibilidad del hemisferio norte",
 		"availabilitysouthern": "Disponibilidad del hemisferio sur",
+		"availabilitynorth": "Disponibilidad del hemisferio norte",
+		"availabilitysouth": "Disponibilidad del hemisferio sur",
 		"Any except rain": "Cualquiera excepto lluvia",
 		"Any weather": "Cualquier clima"
 	},
@@ -198,8 +201,8 @@
 		"20": "Una isla con un solo acantilado de forma cuadrada en el noreste con una cascada que alimenta un río que fluye en un circuito en sentido antihorario alrededor de la isla hasta una salida en la costa este. Aquí solo aparecen libélulas e insectos asociados con el agua."
 	},
 	"tableview": {
-		"new": "Nuevo en ",
-		"leaving": "Saliendo al final de ",
+		"new": "Nuevo este mes",
+		"leaving": "Partiendo a fin de mes",
 		"catchStats": "Estadísticas de captura",
 		"defaultFilters": "Filtros Predeterminados",
 		"appearance": "Apariencia",
@@ -438,8 +441,8 @@
 		"On flowers": "En flores",
 		"On white flowers": "En flores blancas",
 		"Flying near blue/purple/black flowers": "Volando cerca de flores azules/moradas/negras",
-		"On rotten turnips": "En nabos podridos",
-		"Flying near trash (boots, tires, cans) or rotten turnips": "Volando cerca de basura (botas, llantas, latas) o nabos podridos",
+		"On rotten turnips or candy": "En nabos podridos o dulces",
+		"Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips": "Volar cerca de la basura (botas, neumáticos, latas, fuegos artificiales de fuentes usadas) o nabos podridos",
 		"On trees (any kind)": "En árboles (de cualquier tipo)",
 		"Shaking trees (hardwood or cedar only)": "Sacudiendo árboles (solo madera dura o cedro)",
 		"On palm trees": "En palmeras",

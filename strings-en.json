@@ -1,7 +1,7 @@
 {
 	"tab": {
 		"critters": "Critters",
-		"current": "Current",
+		"current": "Availability",
 		"islands": "Islands",
 		"info": "Info"
 	},
@@ -101,6 +101,7 @@
 		"locationUnderground": "Underground",
 		"locationLights": "Lights",
 		"locationBushes": "Bushes",
+		"locationCandy": "Candy",
 		"hemisphereNorthern": "Northern",
 		"hemisphereSouthern": "Southern",
 		"No boost": "No boost",
@@ -110,8 +111,8 @@
 		"shadow": "shadow",
 		"boost": "Catch rate boosted",
 		"messageNoCritters": "No critters found",
-		"messageNoArrivingCritters": "No new critters in",
-		"messageNoLeavingCritters": "No critters leaving at the end of",
+		"messageNoArrivingCritters": "No new critters",
+		"messageNoLeavingCritters": "No critters leaving",
 		"prices": "Prices",
 		"nooksCranny": "Nook's Cranny",
 		"dropbox": "Dropbox",
@@ -132,6 +133,8 @@
 		"allDay": "All Day",
 		"availabilitynorthern": "Northern Hemisphere Availability",
 		"availabilitysouthern": "Southern Hemisphere Availability",
+		"availabilitynorth": "Northern Hemisphere Availability",
+		"availabilitysouth": "Southern Hemisphere Availability",
 		"Any except rain": "Any except rain",
 		"Any weather": "Any weather"
 	},
@@ -197,9 +200,9 @@
 		"19": "This island has the exact same layout as Bamboo Island, but there are only hardwood trees on it instead of bamboo. The only insects that spawn are those associated with trees such as the Walking stick, Earth-boring dung beetle, and Horned atlas.",
 		"20": "An island with a single, square-shaped cliff in the northeast with a waterfall that feeds a river that flows in a counter-clockwise loop around the island to an outlet on the east coast. Only dragonflies and insects associated with water spawn here."
 	},
-		"tableview": {
-		"new": "New in ",
-		"leaving": "Leaving at the end of ",
+	"tableview": {
+		"new": "New this month",
+		"leaving": "Leaving at the end of the month",
 		"catchStats": "Catch Stats",
 		"defaultFilters": "Default Filters",
 		"appearance": "Appearance",
@@ -438,8 +441,8 @@
 		"On flowers": "On flowers",
 		"On white flowers": "On white flowers",
 		"Flying near blue/purple/black flowers": "Flying near blue/purple/black flowers",
-		"On rotten turnips": "On rotten turnips",
-		"Flying near trash (boots, tires, cans) or rotten turnips": "Flying near trash (boots, tires, cans) or rotten turnips",
+		"On rotten turnips or candy": "On rotten turnips or candy",
+		"Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips": "Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips",
 		"On trees (any kind)": "On trees (any kind)",
 		"Shaking trees (hardwood or cedar only)": "Shaking trees (hardwood or cedar only)",
 		"On palm trees": "On palm trees",

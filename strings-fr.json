@@ -1,7 +1,7 @@
 {
 	"tab": {
 		"critters": "Bestioles",
-		"current": "Actuellement",
+		"current": "Disponibilité",
 		"islands": "Îles",
 		"info": "Info"
 	},
@@ -101,6 +101,7 @@
 		"locationUnderground": "Souterrain",
 		"locationLights": "Lumières",
 		"locationBushes": "Buissons",
+		"locationCandy": "Bonbons",
 		"hemisphereNorthern": "Nord",
 		"hemisphereSouthern": "Sud",
 		"No boost": "Pas de boost",
@@ -110,8 +111,8 @@
 		"shadow": "ombre",
 		"boost": "Boost de capture",
 		"messageNoCritters": "Aucune bestiole trouvée",
-		"messageNoArrivingCritters": "Pas de nouvelles bestiole dans",
-		"messageNoLeavingCritters": "Aucune bestiole ne part à la fin de",
+		"messageNoArrivingCritters": "Pas de nouvelles bestiole",
+		"messageNoLeavingCritters": "Aucune bestiole ne part",
 		"prices": "Prix",
 		"nooksCranny": "Boutique Nook",
 		"dropbox": "Boite de dépôt",
@@ -132,6 +133,8 @@
 		"allDay": "Toute la journée",
 		"availabilitynorthern": "Disponibilité dans l'hémisphère Nord",
 		"availabilitysouthern": "Disponibilité dans l'hémisphère Sud",
+		"availabilitynorth": "Disponibilité dans l'hémisphère Nord",
+		"availabilitysouth": "Disponibilité dans l'hémisphère Sud",
 		"Any except rain": "Tout sauf pluie",
 		"Any weather": "Tout temps"
 	},
@@ -197,8 +200,8 @@
 		"19": "Cette île a exactement la même disposition que L’ile « Bambou », mais avec des arbres feuillus. Les seuls insectes qui apparaissent sont ceux associés aux arbres.",
 		"20": "Une île avec une seule falaise de forme carrée dans le nord-est avec une cascade qui alimente une rivière qui coule dans le sens anti-horaire autour de l'île vers une embouchure sur la côte est. Seuls les libellules et les insectes associés à l'eau apparaissent ici."	},
 	"tableview": {
-		"new": "Nouveau en ",
-		"leaving": "Disparition fin ",
+		"new": "Nouveau ce mois-ci",
+		"leaving": "Départ à la fin du mois",
 		"catchStats": "Statistiques de capture",
 		"defaultFilters": "Filtres par défaut",
 		"appearance": "Apparence",
@@ -437,8 +440,8 @@
 		"On flowers": "Sur les fleurs",
 		"On white flowers": "Sur fleurs blanches",
 		"Flying near blue/purple/black flowers": "Volant près de fleurs bleues/violettes/noires",
-		"On rotten turnips": "Sur les navets pourris",
-		"Flying near trash (boots, tires, cans) or rotten turnips": "Volant à proximité de déchets (godasses, pneus, canettes) ou de navets pourris",
+		"On rotten turnips or candy": "Sur des navets pourris ou des bonbons",
+		"Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips": "Voler à proximité de déchets (bottes, pneus, bidons, feux d'artifice de fontaine d'occasion) ou navets pourris",
 		"On trees (any kind)": "Sur les arbres (tout type)",
 		"Shaking trees (hardwood or cedar only)": "En secouer les arbres (feuillus ou cèdre seulement)",
 		"On palm trees": "Sur les palmiers",

@@ -1,7 +1,7 @@
 {
 	"tab": {
 		"critters": "生き物",
-		"current": "当座",
+		"current": "可用性",
 		"islands": "島々",
 		"info": "情報"
 	},
@@ -101,6 +101,7 @@
 		"locationUnderground": "地下",
 		"locationLights": "ライト",
 		"locationBushes": "茂み",
+		"locationCandy": "キャンディー",
 		"hemisphereNorthern": "北部",
 		"hemisphereSouthern": "南方の",
 		"No boost": "ブーストなし",
@@ -110,8 +111,8 @@
 		"shadow": "影",
 		"boost": "キャッチ率が向上",
 		"messageNoCritters": "生き物は見つかりませんでした",
-		"messageNoArrivingCritters": "に新しい生き物はいない",
-		"messageNoLeavingCritters": "の終わりに残らない生き物",
+		"messageNoArrivingCritters": "新しい生き物はいない",
+		"messageNoLeavingCritters": "生き物が残らない",
 		"prices": "価格",
 		"nooksCranny": "너굴상점",
 		"dropbox": "ドロップボックス",
@@ -132,6 +133,8 @@
 		"allDay": "一日中",
 		"availabilitynorthern": "北半球の可用性",
 		"availabilitysouthern": "南半球の可用性",
+		"availabilitynorth": "北半球の可用性",
+		"availabilitysouth": "南半球の可用性",
 		"Any except rain": "雨以外",
 		"Any weather": "どんな天気"
 	},
@@ -198,8 +201,8 @@
 		"20": "北東に正方形の崖が1つある島で、島の周りを反時計回りにループ状に流れる川が東海岸の出口に流れ込む滝があります。 ここでは、水に関連するトンボと昆虫のみが発生します。"
 	},	
 	"tableview": {
-		"new": "新しい ",
-		"leaving": "の終わりに去る ",
+		"new": "今月の新着",
+		"leaving": "月末に出発",
 		"catchStats": "キャッチ統計",
 		"defaultFilters": "デフォルトのフィルター",
 		"appearance": "外観",
@@ -438,8 +441,8 @@
 		"On flowers": "花に",
 		"On white flowers": "白い花に",
 		"Flying near blue/purple/black flowers": "青・紫・黒の花のそばを飛んで",
-		"On rotten turnips": "腐ったカブに",
-		"Flying near trash (boots, tires, cans) or rotten turnips": "ゴミ（ブーツ、タイヤ、缶）や腐ったカブの近くを飛ぶ",
+		"On rotten turnips or candy": "腐ったカブやキャンディーに",
+		"Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips": "ゴミ箱（ブーツ、タイヤ、缶、使用済みの噴水花火）または腐ったカブの近くを飛ぶ",
 		"On trees (any kind)": "木に（どんな種類でも）",
 		"Shaking trees (hardwood or cedar only)": "木を振る（広葉樹または杉のみ）",
 		"On palm trees": "ヤシの木に",

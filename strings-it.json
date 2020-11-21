@@ -1,7 +1,7 @@
 {
 	"tab": {
 		"critters": "Critters",
-		"current": "Attuale",
+		"current": "Disponibilità",
 		"islands": "Isole",
 		"info": "Informazioni"
 	},
@@ -101,6 +101,7 @@
 		"locationUnderground": "Sotto Terra",
 		"locationLights": "Luci",
 		"locationBushes": "Cespugli",
+		"locationCandy": "Caramella",
 		"hemisphereNorthern": "Del Nord",
 		"hemisphereSouthern": "Del Sud",
 		"No boost": "Nessun boost",
@@ -111,7 +112,7 @@
 		"boost": "Boost di Pesca",
 		"messageNoCritters": "Nessun critter trovato",
 		"messageNoArrivingCritters": "Non ci sono nuove critter",
-		"messageNoLeavingCritters": "Nessuna critter in partenza alla fine di",
+		"messageNoLeavingCritters": "Nessuna critter che se ne va",
 		"prices": "Prezzi",
 		"nooksCranny": "La bottega di Nook",
 		"dropbox": "Dropbox",
@@ -132,6 +133,8 @@
 		"allDay": "Tutto il Giorno",
 		"availabilitynorthern": "Disponibilità dell'emisfero settentrionale",
 		"availabilitysouthern": "Disponibilità dell'emisfero australe",
+		"availabilitynorth": "Disponibilità dell'emisfero settentrionale",
+		"availabilitysouth": "Disponibilità dell'emisfero australe",
 		"Any except rain": "Qualsiasi tranne pioggia",
 		"Any weather": "Qualsiasi tempo"
 	},
@@ -198,8 +201,8 @@
 		"20": "Un'isola con una sola scogliera a forma quadrata nel nord-est con una cascata che alimenta un fiume che scorre in un anello in senso antiorario attorno all'isola fino a uno sbocco sulla costa orientale. Qui si generano solo libellule e insetti associati all'acqua."
 	},
 		"tableview": {
-		"new": "Novità ",
-		"leaving": "Disponibile fino ",
+		"new": "Novità di questo mese",
+		"leaving": "Partenza alla fine del mese",
 		"catchStats": "Statistiche di cattura",
 		"defaultFilters": "Filtri Predefiniti",
 		"appearance": "Aspetto",
@@ -438,8 +441,8 @@
 		"On flowers": "Sui fiori",
 		"On white flowers": "Sui fiori bianchi",
 		"Flying near blue/purple/black flowers": "Vola vicino a fiori blu/viola/neri",
-		"On rotten turnips": "Su rape marce",
-		"Flying near trash (boots, tires, cans) or rotten turnips": "Vola vicino a rifiuti (stivali, pneumatici, lattine) o rape marce",
+		"On rotten turnips or candy": "Su rape marce o caramelle",
+		"Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips": "Volare vicino a rifiuti (stivali, pneumatici, lattine, fuochi d'artificio usati) o rape marce",
 		"On trees (any kind)": "Sugli alberi (qualsiasi tipo)",
 		"Shaking trees (hardwood or cedar only)": "Agitare alberi (solo legno duro o cedro)",
 		"On palm trees": "Sulle palme",

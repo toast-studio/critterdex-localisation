@@ -1,7 +1,7 @@
 {
 	"tab": {
 		"critters": "Schepsels",
-		"current": "Actueel",
+		"current": "Beschikbaar",
 		"islands": "Eilanden",
 		"info": "Informatie"
 	},
@@ -101,6 +101,7 @@
 		"locationUnderground": "Ondergronds",
 		"locationLights": "Lichten",
 		"locationBushes": "Struiken",
+		"locationCandy": "Snoep",
 		"hemisphereNorthern": "Noord",
 		"hemisphereSouthern": "Zuidelijk",
 		"No boost": "Geen Verhoging",
@@ -110,8 +111,8 @@
 		"shadow": "schaduw",
 		"boost": "Vangstpercentage verhoogd",
 		"messageNoCritters": "Geen wezens gevonden",
-		"messageNoArrivingCritters": "Geen nieuwe wezens binnen",
-		"messageNoLeavingCritters": "Geen wezens die eind",
+		"messageNoArrivingCritters": "Geen nieuwe beestjes",
+		"messageNoLeavingCritters": "Er gaan geen beestjes weg",
 		"prices": "Prijzen",
 		"nooksCranny": "Nooks Hoek",
 		"dropbox": "Dropbox",
@@ -132,6 +133,8 @@
 		"allDay": "De Hele Dag",
 		"availabilitynorthern": "Beschikbaarheid op het Noordelijk Halfrond",
 		"availabilitysouthern": "Beschikbaarheid op het Zuidelijk Halfrond",
+		"availabilitynorth": "Beschikbaarheid op het Noordelijk Halfrond",
+		"availabilitysouth": "Beschikbaarheid op het Zuidelijk Halfrond",
 		"Any except rain": "Alle behalve regen",
 		"Any weather": "Elk weer"
 	},
@@ -198,8 +201,8 @@
 		"20": "Een eiland met een enkele, vierkante klif in het noordoosten met een waterval die een rivier voedt die tegen de klok in rond het eiland stroomt naar een uitlaat aan de oostkust. Alleen libellen en insecten geassocieerd met water paaien hier."
 	},
 		"tableview": {
-		"new": "Nieuw in ",
-		"leaving": "Vertrek eind ",
+		"new": "Nieuw deze maand",
+		"leaving": "Vertrek aan het einde van de maand",
 		"catchStats": "Vang Statistieken",
 		"defaultFilters": "Standaardfilters",
 		"appearance": "Verschijning",
@@ -438,8 +441,8 @@
 		"On flowers": "Op bloemen",
 		"On white flowers": "Op witte bloemen",
 		"Flying near blue/purple/black flowers": "Vliegen in de buurt van blauw/paars/zwarte bloemen",
-		"On rotten turnips": "Op rotte rapen",
-		"Flying near trash (boots, tires, cans) or rotten turnips": "Vliegen in de buurt van afval (laarzen, banden, blikjes) of rotte rapen",
+		"On rotten turnips or candy": "Op rotte rapen of snoep",
+		"Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips": "Vliegen in de buurt van vuilnis (laarzen, banden, blikjes, gebruikt fonteinvuurwerk) of rotte rapen",
 		"On trees (any kind)": "Op bomen (elke soort)",
 		"Shaking trees (hardwood or cedar only)": "Bomen schudden (alleen hardhout of ceder)",
 		"On palm trees": "Op palmbomen",

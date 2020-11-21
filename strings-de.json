@@ -1,7 +1,7 @@
 {
 	"tab": {
 		"critters": "Tiere",
-		"current": "Aktuell",
+		"current": "Verfügbarkeit",
 		"islands": "Inseln",
 		"info": "Info"
 	},
@@ -101,6 +101,7 @@
 		"locationUnderground": "Unter Tage",
 		"locationLights": "Beleuchtung",
 		"locationBushes": "Gebüsch",
+		"locationCandy": "Süßigkeiten",
 		"hemisphereNorthern": "Nord",
 		"hemisphereSouthern": "Süd",
 		"No boost": "Kein Schub",
@@ -110,8 +111,8 @@
 		"shadow": "Schatten",
 		"boost": "Fangrate erhöht",
 		"messageNoCritters": "Keine Tiere gefunden",
-		"messageNoArrivingCritters": "Keine neuen Tiere in",
-		"messageNoLeavingCritters": "Keine Tiere am Ende von",
+		"messageNoArrivingCritters": "Keine neuen Tiere",
+		"messageNoLeavingCritters": "Keine Tiere gehen",
 		"prices": "Preise",
 		"nooksCranny": "Nooks Laden",
 		"dropbox": "Dropbox",
@@ -132,6 +133,8 @@
 		"allDay": "Den ganzen Tag",
 		"availabilitynorthern": "Verfügbarkeit auf der nördlichen Hemisphäre",
 		"availabilitysouthern": "Verfügbarkeit auf der südlichen Hemisphäre",
+		"availabilitynorth": "Verfügbarkeit auf der nördlichen Hemisphäre",
+		"availabilitysouth": "Verfügbarkeit auf der südlichen Hemisphäre",
 		"Any except rain": "Alle außer Regen",
 		"Any weather": "Jedes Wetter"
 	},
@@ -198,8 +201,8 @@
 		"20": "Eine Insel mit einer einzigen quadratischen Klippe im Nordosten mit einem Wasserfall, der einen Fluss, der gegen den Uhrzeigersinn um die Insel fließt, zu einem Auslass an der Ostküste speist. Hier laichen nur Libellen und Insekten, die mit Wasser in Verbindung gebracht werden."
 	},
 		"tableview": {
-		"new": "Neu in ",
-		"leaving": "Verlässt am Ende von ",
+		"new": "Neu in diesem Monat",
+		"leaving": "Ende des Monats abreisen",
 		"catchStats": "Fangstatistiken",
 		"defaultFilters": "Standardfilter",
 		"appearance": "Aussehen",
@@ -438,8 +441,8 @@
 		"On flowers": "Auf Blumen",
 		"On white flowers": "Auf weißen Blumen",
 		"Flying near blue/purple/black flowers": "Fliegen in der Nähe von blauen/lila/schwarzen Blumen",
-		"On rotten turnips": "Auf faulen Rüben",
-		"Flying near trash (boots, tires, cans) or rotten turnips": "Fliegen in der Nähe von Müll (Stiefel, Reifen, Dosen) oder faulen Rüben",
+		"On rotten turnips or candy": "Auf faulen Rüben oder Süßigkeiten",
+		"Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips": "Fliegen in der Nähe von Müll (Stiefel, Reifen, Dosen, gebrauchte Springbrunnenfeuerwerke) oder faulen Rüben",
 		"On trees (any kind)": "Auf Bäumen (jeglicher Art)",
 		"Shaking trees (hardwood or cedar only)": "Bäume schütteln (nur Hartholz oder Zeder)",
 		"On palm trees": "Auf Palmen",

@@ -1,7 +1,7 @@
 {
 	"tab": {
 		"critters": "Зубастики",
-		"current": "Текущий",
+		"current": "Доступность",
 		"islands": "острова",
 		"info": "Информация"
 	},
@@ -101,6 +101,7 @@
 		"locationUnderground": "Метро",
 		"locationLights": "огни",
 		"locationBushes": "Кусты",
+		"locationCandy": "Конфеты",
 		"hemisphereNorthern": "северный",
 		"hemisphereSouthern": "южный",
 		"No boost": "Без увеличения",
@@ -110,8 +111,8 @@
 		"shadow": "тень",
 		"boost": "Скорость вылова увеличена",
 		"messageNoCritters": "Существ не найдено",
-		"messageNoArrivingCritters": "Нет новых тварей в",
-		"messageNoLeavingCritters": "Никаких тварей не осталось в конце",
+		"messageNoArrivingCritters": "Нет новых тварей",
+		"messageNoLeavingCritters": "Никакие твари не уходят",
 		"prices": "Цены",
 		"nooksCranny": "Лавка Нука",
 		"dropbox": "Dropbox",
@@ -132,6 +133,8 @@
 		"allDay": "Весь день",
 		"availabilitynorthern": "Доступность северного полушария",
 		"availabilitysouthern": "Доступность южного полушария",
+		"availabilitynorth": "Доступность северного полушария",
+		"availabilitysouth": "Доступность южного полушария",
 		"Any except rain": "Любой кроме дождя",
 		"Any weather": "Любая погода"
 	},
@@ -198,8 +201,8 @@
 		"20": "Остров с единственным квадратным утесом на северо-востоке с водопадом, который питает реку, которая течет в петле против часовой стрелки вокруг острова к выходу на восточном побережье. Здесь нерестятся только стрекозы и насекомые."
 	},
 	"tableview": {
-		"new": "Новое в ",
-		"leaving": "Оставив в конце ",
+		"new": "Новинка этого месяца",
+		"leaving": "Уход в конце месяца",
 		"catchStats": "Поймать статистику",
 		"defaultFilters": "Фильтры по умолчанию",
 		"appearance": "Внешность",
@@ -438,8 +441,8 @@
 		"On flowers": "На цветы",
 		"On white flowers": "На белых цветах",
 		"Flying near blue/purple/black flowers": "Полет возле синего/фиолетового/черного цветов",
-		"On rotten turnips": "На гнилой репе",
-		"Flying near trash (boots, tires, cans) or rotten turnips": "Полет возле мусора (сапоги, шины, банки) или гнилой репы",
+		"On rotten turnips or candy": "На тухлой репе или конфете",
+		"Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips": "Полет рядом с мусором (сапоги, шины, банки, использованные салюты от фонтана) или гнилой репой",
 		"On trees (any kind)": "На деревьях (любой вид)",
 		"Shaking trees (hardwood or cedar only)": "Встряхивание деревьев (только лиственных пород или кедра)",
 		"On palm trees": "На пальмах",

@@ -1,7 +1,7 @@
 {
 	"tab": {
 		"critters": "小动物",
-		"current": "当前",
+		"current": "可用性",
 		"islands": "岛屿",
 		"info": "信息"
 	},
@@ -101,6 +101,7 @@
 		"locationUnderground": "地下",
 		"locationLights": "灯火",
 		"locationBushes": "灌木丛",
+		"locationCandy": "糖果",
 		"hemisphereNorthern": "北方",
 		"hemisphereSouthern": "南方的",
 		"No boost": "没有提升",
@@ -110,8 +111,8 @@
 		"shadow": "阴影",
 		"boost": "捕获率提高",
 		"messageNoCritters": "找不到小动物",
-		"messageNoArrivingCritters": "没有新的生物",
-		"messageNoLeavingCritters": "末尾没有小动物",
+		"messageNoArrivingCritters": "没有新的小动物",
+		"messageNoLeavingCritters": "没有小动物离开",
 		"prices": "价格",
 		"nooksCranny": "Nook's Cranny",
 		"dropbox": "投寄箱",
@@ -132,6 +133,8 @@
 		"allDay": "一整天",
 		"availabilitynorthern": "北半球的可用性",
 		"availabilitysouthern": "南半球的可用性",
+		"availabilitynorth": "北半球的可用性",
+		"availabilitysouth": "南半球的可用性",
 		"Any except rain": "除雨外",
 		"Any weather": "任何天气"
 	},
@@ -198,8 +201,8 @@
 		"20": "一个岛屿，在东北部具有单个方形悬崖，并带有瀑布，该瀑布为沿该岛逆时针方向环流的河流汇入东海岸的出口。 在此仅产生与水相关的蜻蜓和昆虫。"
 	},
 		"tableview": {
-		"new": "新进 ",
-		"leaving": "在末尾离开 ",
+		"new": "本月新",
+		"leaving": "在月底离开",
 		"catchStats": "接球统计",
 		"defaultFilters": "默认过滤器",
 		"appearance": "出现",
@@ -438,8 +441,8 @@
 		"On flowers": "在花上",
 		"On white flowers": "在白花上",
 		"Flying near blue/purple/black flowers": "在蓝色/紫色/黑色花朵附近飞行",
-		"On rotten turnips": "在烂萝卜上",
-		"Flying near trash (boots, tires, cans) or rotten turnips": "在垃圾（靴子，轮胎，罐头）或腐烂的萝卜附近飞行",
+		"On rotten turnips or candy": "在腐烂的萝卜或糖果上",
+		"Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips": "在垃圾桶（靴子，轮胎，罐头，用过的喷泉烟火）或腐烂的萝卜附近飞行",
 		"On trees (any kind)": "",
 		"Shaking trees (hardwood or cedar only)": "在树上（任何种类）",
 		"On palm trees": "在棕榈树上",

@@ -1,7 +1,7 @@
 {
 	"tab": {
 		"critters": "生物",
-		"current": "當前",
+		"current": "可用性",
 		"islands": "島嶼",
 		"info": "信息"
 	},
@@ -101,6 +101,7 @@
 		"locationUnderground": "地下",
 		"locationLights": "燈火",
 		"locationBushes": "灌木叢",
+		"locationCandy": "糖果",
 		"hemisphereNorthern": "北方",
 		"hemisphereSouthern": "南方的",
 		"No boost": "沒有提升",
@@ -110,8 +111,8 @@
 		"shadow": "陰影",
 		"boost": "捕獲率提高",
 		"messageNoCritters": "找不到生物",
-		"messageNoArrivingCritters": "沒有新的生物",
-		"messageNoLeavingCritters": "末尾沒有小動物",
+		"messageNoArrivingCritters": "沒有新的小動物",
+		"messageNoLeavingCritters": "沒有小動物離開",
 		"prices": "價格",
 		"nooksCranny": "Nook's Cranny",
 		"dropbox": "投寄箱",
@@ -132,6 +133,8 @@
 		"allDay": "一整天",
 		"availabilitynorthern": "北半球的可用性",
 		"availabilitysouthern": "南半球的可用性",
+		"availabilitynorth": "北半球的可用性",
+		"availabilitysouth": "南半球的可用性",
 		"Any except rain": "除雨外",
 		"Any weather": "任何天氣"
 	},
@@ -198,8 +201,8 @@
 		"20": "一個島嶼，在東北部具有單個方形懸崖，並帶有瀑布，該瀑佈為沿該島逆時針方向環流的河流匯入東海岸的出口。 在此僅產生與水相關的蜻蜓和昆蟲。"
 	},
 	"tableview": {
-		"new": "新進 ",
-		"leaving": "在末尾離開 ",
+		"new": "本月新",
+		"leaving": "在月底離開",
 		"catchStats": "接球統計",
 		"defaultFilters": "默認過濾器",
 		"appearance": "出現",
@@ -438,8 +441,8 @@
 		"On flowers": "在花上",
 		"On white flowers": "在白花上",
 		"Flying near blue/purple/black flowers": "在藍色/紫色/黑色花朵附近飛行",
-		"On rotten turnips": "在爛蘿蔔上",
-		"Flying near trash (boots, tires, cans) or rotten turnips": "在垃圾（靴子，輪胎，罐頭）或腐爛的蘿蔔附近飛行",
+		"On rotten turnips or candy": "在腐爛的蘿蔔或糖果上",
+		"Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips": "在垃圾桶（靴子，輪胎，罐頭，用過的噴泉煙火）或腐爛的蘿蔔附近飛行",
 		"On trees (any kind)": "在樹上（任何種類）",
 		"Shaking trees (hardwood or cedar only)": "搖樹（僅硬木或雪松）",
 		"On palm trees": "在棕櫚樹上",

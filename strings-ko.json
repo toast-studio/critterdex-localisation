@@ -1,7 +1,7 @@
 {
 	"tab": {
 		"critters": "생물",
-		"current": "현행의",
+		"current": "유효성",
 		"islands": "제도",
 		"info": "정보"
 	},
@@ -101,6 +101,7 @@
 		"locationUnderground": "지하철",
 		"locationLights": "등",
 		"locationBushes": "덤불",
+		"locationCandy": "사탕",
 		"hemisphereNorthern": "북부 사투리",
 		"hemisphereSouthern": "남부 지방 사투리",
 		"No boost": "증가 없음",
@@ -110,8 +111,8 @@
 		"shadow": "그림자",
 		"boost": "캐치 속도 증가",
 		"messageNoCritters": "생물을 찾을 수 없습니다",
-		"messageNoArrivingCritters": "새로운 동물이 없습니다",
-		"messageNoLeavingCritters": "끝에는 동물이 없습니다",
+		"messageNoArrivingCritters": "새로운 동물 없음",
+		"messageNoLeavingCritters": "떠나는 동물 없음",
 		"prices": "물가",
 		"nooksCranny": "너굴상점",
 		"dropbox": "드롭 박스",
@@ -132,6 +133,8 @@
 		"allDay": "하루 종일",
 		"availabilitynorthern": "북반구 이용 가능",
 		"availabilitysouthern": "남반구 이용 가능",
+		"availabilitynorth": "북반구 이용 가능",
+		"availabilitysouth": "남반구 이용 가능",
 		"Any except rain": "비를 제외한 모든",
 		"Any weather": "어떤 날씨"
 	},
@@ -198,8 +201,8 @@
 		"20": "북동쪽에 하나의 사각형 모양의 절벽이있는 섬으로 폭포가있는 폭포는 섬 주위로 시계 반대 방향으로 흐르는 강을 동해안의 출구로 보냅니다. 여기에는 물과 관련된 잠자리와 곤충 만 있습니다."
 	},
 	"tableview": {
-		"new": "새로운 ",
-		"leaving": "마지막에 떠나 ",
+		"new": "이번 달 신규",
+		"leaving": "월말에 출발",
 		"catchStats": "캐치 통계",
 		"defaultFilters": "기본 필터",
 		"appearance": "외관",
@@ -438,8 +441,8 @@
 		"On flowers": "꽃에",
 		"On white flowers": "흰 꽃에",
 		"Flying near blue/purple/black flowers": "파랑/보라색/검은 꽃 근처에서 비행",
-		"On rotten turnips": "썩은 순무",
-		"Flying near trash (boots, tires, cans) or rotten turnips": "쓰레기 (부츠, 타이어, 캔) 또는 썩은 순무 근처에서 비행",
+		"On rotten turnips or candy": "썩은 순무 나 사탕에",
+		"Flying near trash (boots, tires, cans, used fountain fireworks) or rotten turnips": "쓰레기 (부츠, 타이어, 캔, 중고 분수 불꽃 놀이) 또는 썩은 순무 근처에서 비행",
 		"On trees (any kind)": "나무에 (모든 종류)",
 		"Shaking trees (hardwood or cedar only)": "나무 흔들기 (나무 또는 삼나무 만)",
 		"On palm trees": "야자수에",
