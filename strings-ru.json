@@ -48,6 +48,8 @@
 		"headingMovement": "Скорость движения",
 		"headingDifficulty": "Поймать Сложность",
 		"headingVision": "видение",
+		"headingBubbles": "Пузыри",
+		"and": "и",
 		"any": "Любые",
 		"anyTime": "Любое время",
 		"all": "Все",
@@ -501,5 +503,18 @@
 		"Medium": "средний",
 		"Wide": "широкий",
 		"Very Wide": "Очень широкий"
+	},
+	"bubbles": {
+		"TinyShadow": "Медленный",
+		"SmallShadow": "Медленный",
+		"MediumShadow": "Умеренный",
+		"LargeShadow": "Быстро",
+		"Very LargeShadow": "Быстро",
+		"StationarySpeed": "Ограниченный",
+		"Very slowSpeed": "широкий",
+		"SlowSpeed": "широкий",
+		"MediumSpeed": "широкий",
+		"FastSpeed": "широкий",
+		"Very fastSpeed": "широкий"
 	}
 }

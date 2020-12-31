@@ -48,6 +48,8 @@
 		"headingMovement": "移動速度",
 		"headingDifficulty": "趕上難度",
 		"headingVision": "視力",
+		"headingBubbles": "泡泡",
+		"and": "和",
 		"any": "任何",
 		"anyTime": "任何時候",
 		"all": "所有",
@@ -501,5 +503,18 @@
 		"Medium": "中",
 		"Wide": "寬",
 		"Very Wide": "很廣闊"
+	},
+	"bubbles": {
+		"TinyShadow": "慢",
+		"SmallShadow": "慢",
+		"MediumShadow": "中等",
+		"LargeShadow": "快速",
+		"Very LargeShadow": "快速",
+		"StationarySpeed": "狹窄",
+		"Very slowSpeed": "寬",
+		"SlowSpeed": "寬",
+		"MediumSpeed": "寬",
+		"FastSpeed": "寬",
+		"Very fastSpeed": "寬"
 	}
 }

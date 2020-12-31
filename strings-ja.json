@@ -48,6 +48,8 @@
 		"headingMovement": "移動速度",
 		"headingDifficulty": "キャッチの難しさ",
 		"headingVision": "ビジョン",
+		"headingBubbles": "泡",
+		"and": "そして",
 		"any": "どれか",
 		"anyTime": "どんなときも",
 		"all": "すべて",
@@ -501,5 +503,18 @@
 		"Medium": "中",
 		"Wide": "ワイド",
 		"Very Wide": "非常に広い"
+	},
+	"bubbles": {
+		"TinyShadow": "スロー",
+		"SmallShadow": "スロー",
+		"MediumShadow": "中程度",
+		"LargeShadow": "速い",
+		"Very LargeShadow": "速い",
+		"StationarySpeed": "狭い",
+		"Very slowSpeed": "ワイド",
+		"SlowSpeed": "ワイド",
+		"MediumSpeed": "ワイド",
+		"FastSpeed": "ワイド",
+		"Very fastSpeed": "ワイド"
 	}
 }

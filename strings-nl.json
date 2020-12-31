@@ -48,6 +48,8 @@
 		"headingMovement": "Bewegingssnelheid",
 		"headingDifficulty": "Vang Moeilijkheidsgraad",
 		"headingVision": "Visie",
+		"headingBubbles": "Bubbels",
+		"and": "en",
 		"any": "Ieder",
 		"anyTime": "Elk Moment",
 		"all": "Allemaal",
@@ -501,5 +503,18 @@
 		"Medium": "Medium",
 		"Wide": "Breed",
 		"Very Wide": "Heel Breed"
+	},
+	"bubbles": {
+		"TinyShadow": "Langzaam",
+		"SmallShadow": "Langzaam",
+		"MediumShadow": "Matig",
+		"LargeShadow": "Snel",
+		"Very LargeShadow": "Snel",
+		"StationarySpeed": "Smal",
+		"Very slowSpeed": "Breed",
+		"SlowSpeed": "Breed",
+		"MediumSpeed": "Breed",
+		"FastSpeed": "Breed",
+		"Very fastSpeed": "Breed"
 	}
 }

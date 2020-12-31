@@ -48,6 +48,8 @@
 		"headingMovement": "Velocidad de Movimiento",
 		"headingDifficulty": "Captura Dificultad",
 		"headingVision": "Visión",
+		"headingBubbles": "Burbujas",
+		"and": "y",
 		"any": "Ninguno",
 		"anyTime": "En cualquier momento",
 		"all": "Todos",
@@ -501,5 +503,18 @@
 		"Medium": "Medio",
 		"Wide": "Amplio",
 		"Very Wide": "Muy Ancho"
+	},
+	"bubbles": {
+		"TinyShadow": "Lento",
+		"SmallShadow": "Lento",
+		"MediumShadow": "Moderado",
+		"LargeShadow": "Rápido",
+		"Very LargeShadow": "Rápido",
+		"StationarySpeed": "Estrecho",
+		"Very slowSpeed": "Amplio",
+		"SlowSpeed": "Amplio",
+		"MediumSpeed": "Amplio",
+		"FastSpeed": "Amplio",
+		"Very fastSpeed": "Amplio"
 	}
 }

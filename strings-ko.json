@@ -48,6 +48,8 @@
 		"headingMovement": "이동 속도",
 		"headingDifficulty": "캐치 난이도",
 		"headingVision": "전망",
+		"headingBubbles": "거품",
+		"and": "과",
 		"any": "어떤",
 		"anyTime": "언제든지",
 		"all": "모두",
@@ -501,5 +503,18 @@
 		"Medium": "매질",
 		"Wide": "넓은",
 		"Very Wide": "매우 넓다"
+	},
+	"bubbles": {
+		"TinyShadow": "느린",
+		"SmallShadow": "느린",
+		"MediumShadow": "보통의",
+		"LargeShadow": "빠른",
+		"Very LargeShadow": "빠른",
+		"StationarySpeed": "제한된",
+		"Very slowSpeed": "넓은",
+		"SlowSpeed": "넓은",
+		"MediumSpeed": "넓은",
+		"FastSpeed": "넓은",
+		"Very fastSpeed": "넓은"
 	}
 }
