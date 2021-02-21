@@ -140,7 +140,8 @@
 		"availabilitynorth": "北半球的可用性",
 		"availabilitysouth": "南半球的可用性",
 		"Any except rain": "除雨外",
-		"Any weather": "任何天气"
+		"Any weather": "任何天气",
+		"Rain only": "只有下雨"
 	},
 	"island": {
 		"chance": "机会",
@@ -228,7 +229,8 @@
 		"messageTranslation": "如果您发现翻译错误，请",
 		"linkTranslation": "提交更正",
 		"sync": "同步捕获状态",
-		"syncShort": "同步"
+		"syncShort": "同步",
+		"profiles": "CritterDex由制作"
 	},
 	"creatures": {
 		"582": "油蝉",

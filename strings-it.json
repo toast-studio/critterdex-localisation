@@ -140,7 +140,8 @@
 		"availabilitynorth": "Disponibilità dell'emisfero settentrionale",
 		"availabilitysouth": "Disponibilità dell'emisfero australe",
 		"Any except rain": "Qualsiasi tranne pioggia",
-		"Any weather": "Qualsiasi tempo"
+		"Any weather": "Qualsiasi tempo",
+		"Rain only": "Pioggia solo"
 	},
 	"island": {
 		"chance": "opportunità",
@@ -228,7 +229,8 @@
 		"messageTranslation": "Se trovi errori nelle traduzioni, per favore",
 		"linkTranslation": "invia una correzione",
 		"sync": "Sincronizza Stato Cattura",
-		"syncShort": "Sincronizzare"
+		"syncShort": "Sincronizzare",
+		"profiles": "CritterDex è realizzato da"
 	},
 	"creatures": {
 		"582": "cicala marrone",

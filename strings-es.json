@@ -140,7 +140,8 @@
 		"availabilitynorth": "Disponibilidad del hemisferio norte",
 		"availabilitysouth": "Disponibilidad del hemisferio sur",
 		"Any except rain": "Cualquiera excepto lluvia",
-		"Any weather": "Cualquier clima"
+		"Any weather": "Cualquier clima",
+		"Rain only": "Sólo la lluvia"
 	},
 	"island": {
 		"chance": "de posibilidad",
@@ -228,7 +229,8 @@
 		"messageTranslation": "Si encuentra algún error con las traducciones, por favor",
 		"linkTranslation": "enviar correcciones",
 		"sync": "Sincronizar Estado de Captura",
-		"syncShort": "Sincronización"
+		"syncShort": "Sincronización",
+		"profiles": "CritterDex se hace a mano por"
 	},
 	"creatures": {
 		"582": "cigarra marrón",

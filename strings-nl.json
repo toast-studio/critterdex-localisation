@@ -140,7 +140,8 @@
 		"availabilitynorth": "Beschikbaarheid op het Noordelijk Halfrond",
 		"availabilitysouth": "Beschikbaarheid op het Zuidelijk Halfrond",
 		"Any except rain": "Alle behalve regen",
-		"Any weather": "Elk weer"
+		"Any weather": "Elk weer",
+		"Rain only": "Rain alleen"
 	},
 	"island": {
 		"chance": "kans",
@@ -228,7 +229,8 @@
 		"messageTranslation": "Als u fouten met vertalingen aantreft, alstublieft",
 		"linkTranslation": "correcties indienen",
 		"sync": "Vangstatus Synchroniseren",
-		"syncShort": "Synchroniseren"
+		"syncShort": "Synchroniseren",
+		"profiles": "CritterDex wordt gemaakt door"
 	},
 	"creatures": {
 		"582": "bruine cicade",

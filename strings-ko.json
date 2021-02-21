@@ -140,7 +140,8 @@
 		"availabilitynorth": "북반구 이용 가능",
 		"availabilitysouth": "남반구 이용 가능",
 		"Any except rain": "비를 제외한 모든",
-		"Any weather": "어떤 날씨"
+		"Any weather": "어떤 날씨",
+		"Rain only": "단지 비"
 	},
 	"island": {
 		"chance": "기회",
@@ -228,7 +229,8 @@
 		"messageTranslation": "번역에 오류가 있으면",
 		"linkTranslation": "정정하다",
 		"sync": "캐치 상태 동기화",
-		"syncShort": "동조"
+		"syncShort": "동조",
+		"profiles": "CritterDex는에 의해 제작된다"
 	},
 	"creatures": {
 		"582": "유지매미",

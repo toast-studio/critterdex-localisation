@@ -140,7 +140,8 @@
 		"availabilitynorth": "Verfügbarkeit auf der nördlichen Hemisphäre",
 		"availabilitysouth": "Verfügbarkeit auf der südlichen Hemisphäre",
 		"Any except rain": "Alle außer Regen",
-		"Any weather": "Jedes Wetter"
+		"Any weather": "Jedes Wetter",
+		"Rain only": "Regen nur"
 	},
 	"island": {
 		"chance": "Chance",
@@ -228,7 +229,8 @@
 		"messageTranslation": "Wenn Sie Fehler bei Übersetzungen finden, bitte",
 		"linkTranslation": "korrekturen einreichen",
 		"sync": "Fangstatus synchronisieren",
-		"syncShort": "Synchronisieren"
+		"syncShort": "Synchronisieren",
+		"profiles": "CritterDex wird in Handarbeit von"
 	},
 	"creatures": {
 		"582": "Braunzikade",

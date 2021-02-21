@@ -140,7 +140,8 @@
 		"availabilitynorth": "Northern Hemisphere Availability",
 		"availabilitysouth": "Southern Hemisphere Availability",
 		"Any except rain": "Any except rain",
-		"Any weather": "Any weather"
+		"Any weather": "Any weather",
+		"Rain only": "Rain only"
 	},
 	"island": {
 		"chance": "chance",
@@ -228,7 +229,8 @@
 		"messageTranslation": "If you find any errors with translations, please",
 		"linkTranslation": "submit corrections",
 		"sync": "Sync Catch Status",
-		"syncShort": "Sync"
+		"syncShort": "Sync",
+		"profiles": "CritterDex is crafted by"
 	},
 	"creatures": {
 		"582": "brown cicada",

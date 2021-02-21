@@ -140,7 +140,8 @@
 		"availabilitynorth": "北半球的可用性",
 		"availabilitysouth": "南半球的可用性",
 		"Any except rain": "除雨外",
-		"Any weather": "任何天氣"
+		"Any weather": "任何天氣",
+		"Rain only": "只有下雨"
 	},
 	"island": {
 		"chance": "機會",
@@ -228,7 +229,8 @@
 		"messageTranslation": "如果您發現翻譯有誤，請",
 		"linkTranslation": "提交更正",
 		"sync": "同步捕獲狀態",
-		"syncShort": "同步"
+		"syncShort": "同步",
+		"profiles": "CritterDex由製作"
 	},
 	"creatures": {
 		"582": "油蟬",

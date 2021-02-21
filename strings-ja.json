@@ -140,7 +140,8 @@
 		"availabilitynorth": "北半球の可用性",
 		"availabilitysouth": "南半球の可用性",
 		"Any except rain": "雨以外",
-		"Any weather": "どんな天気"
+		"Any weather": "どんな天気",
+		"Rain only": "唯一の雨"
 	},
 	"island": {
 		"chance": "機会",
@@ -228,7 +229,8 @@
 		"messageTranslation": "翻訳でエラーが見つかった場合は、",
 		"linkTranslation": "修正を送信する",
 		"sync": "同期キャッチ状況",
-		"syncShort": "同期"
+		"syncShort": "同期",
+		"profiles": "CritterDexがで細工されました"
 	},
 	"creatures": {
 		"582": "アブラゼミ",

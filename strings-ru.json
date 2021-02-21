@@ -140,7 +140,8 @@
 		"availabilitynorth": "Доступность северного полушария",
 		"availabilitysouth": "Доступность южного полушария",
 		"Any except rain": "Любой кроме дождя",
-		"Any weather": "Любая погода"
+		"Any weather": "Любая погода",
+		"Rain only": "Дождь только"
 	},
 	"island": {
 		"chance": "шанс",
@@ -228,7 +229,8 @@
 		"messageTranslation": "Если вы обнаружите ошибки в переводах, пожалуйста,",
 		"linkTranslation": "представить исправления",
 		"sync": "Состояние синхронизации",
-		"syncShort": "Синхронизация"
+		"syncShort": "Синхронизация",
+		"profiles": "CritterDex изготовлен по"
 	},
 	"creatures": {
 		"582": "коричневая цикада",

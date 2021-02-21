@@ -140,7 +140,8 @@
 		"availabilitynorth": "Disponibilité dans l'hémisphère Nord",
 		"availabilitysouth": "Disponibilité dans l'hémisphère Sud",
 		"Any except rain": "Tout sauf pluie",
-		"Any weather": "Tout temps"
+		"Any weather": "Tout temps",
+		"Rain only": "La pluie seulement"
 	},
 	"island": {
 		"chance": "de chance",
@@ -227,7 +228,8 @@
 		"messageTranslation": "Si vous trouvez des erreurs dans les traductions, veuillez",
 		"linkTranslation": "soumettre des corrections",
 		"sync": "Synchroniser les captures",
-		"syncShort": "Sync"
+		"syncShort": "Sync",
+		"profiles": "CritterDex est conçu par"
 	},
 	"creatures": {
 		"582": "cigale cercope",
