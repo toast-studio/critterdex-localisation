@@ -217,6 +217,7 @@
 		"language": "Idioma",
 		"about": "Sobre CritterDex",
 		"linkSettings": "Configuraciones",
+		"linkTipJar": "Donaciones",
 		"linkVersionHistory": "Historial de Versiones",
 		"linkSupport": "Comentarios y Soporte",
 		"linkPrivacy": "Leer la Política de Privacidad",
@@ -226,11 +227,18 @@
 		"resetStatus": "Restablecer todos los bichos",
 		"legal": "Contenido de Animal Crossing © 2001 Nintendo. No se pretende infringir los derechos de autor o la marca registrada al usar el contenido de Animal Crossing.",
 		"version": "Versión",
+		"updateCheck": "Compruebe las Actualizaciones",
 		"messageTranslation": "Si encuentra algún error con las traducciones, por favor",
 		"linkTranslation": "enviar correcciones",
 		"sync": "Sincronizar Estado de Captura",
 		"syncShort": "Sincronización",
-		"profiles": "CritterDex se hace a mano por"
+		"profiles": "CritterDex se hace a mano por",
+		"tipIntro": "CritterDex es desarrollado por solo dos personas. Si bien es libre de usarlo, si desea mostrar su apoyo, puede dejarnos una donación. ¡Es muy apreciado!",
+		"tipSmall": "Pequeño",
+		"tipMedium": "Medio",
+		"tipLarge": "Grande",
+		"tipLegal": "Los precios se establecen en USD. CritterDex es libre de usar y no requiere pago. Si tiene algún problema, póngase en contacto con",
+		"tipSupport": "Apoyo"
 	},
 	"creatures": {
 		"582": "cigarra marrón",

@@ -217,6 +217,7 @@
 		"language": "Linguaggio",
 		"about": "Informazioni su CritterDex",
 		"linkSettings": "Impostazioni",
+		"linkTipJar": "Donazioni",
 		"linkVersionHistory": "Cronologia Delle Versioni",
 		"linkSupport": "Feedback e Supporto",
 		"linkPrivacy": "Leggi l'informativa Sulla Privacy",
@@ -226,11 +227,18 @@
 		"resetStatus": "Ripristina tutte le creature",
 		"legal": "Contenuto di Animal Crossing © 2001 Nintendo. Non è prevista alcuna violazione del copyright o del marchio nell'uso di Animal Crossing.",
 		"version": "Versione",
+		"updateCheck": "Controlla gli Aggiornamenti",
 		"messageTranslation": "Se trovi errori nelle traduzioni, per favore",
 		"linkTranslation": "invia una correzione",
 		"sync": "Sincronizza Stato Cattura",
 		"syncShort": "Sincronizzare",
-		"profiles": "CritterDex è realizzato da"
+		"profiles": "CritterDex è realizzato da",
+		"tipIntro": "CritterDex è sviluppato da solo due persone. Mentre è libero di usare, se vuoi mostrare il tuo supporto puoi lasciarci una donazione. È molto apprezzato!",
+		"tipSmall": "Piccolo",
+		"tipMedium": "Medio",
+		"tipLarge": "Grande",
+		"tipLegal": "I prezzi sono impostati in USD. CritterDex è gratuito da usare e non richiede il pagamento. Se hai problemi, si prega di contattare",
+		"tipSupport": "Supporto"
 	},
 	"creatures": {
 		"582": "cicala marrone",

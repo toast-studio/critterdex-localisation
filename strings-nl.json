@@ -217,6 +217,7 @@
 		"language": "Taal",
 		"about": "Over CritterDex",
 		"linkSettings": "Instellingen",
+		"linkTipJar": "Donaties",
 		"linkVersionHistory": "Versiegeschiedenis",
 		"linkSupport": "Feedback en Ondersteuning",
 		"linkPrivacy": "Lees het Privacybeleid",
@@ -226,11 +227,18 @@
 		"resetStatus": "Reset alle schepsels",
 		"legal": "Animal Crossing-inhoud © 2001 Nintendo. Er is geen inbreuk op het auteursrecht of handelsmerk bedoeld bij het gebruik van Animal Crossing-inhoud.",
 		"version": "Versie",
+		"updateCheck": "Controleer op Updates",
 		"messageTranslation": "Als u fouten met vertalingen aantreft, alstublieft",
 		"linkTranslation": "correcties indienen",
 		"sync": "Vangstatus Synchroniseren",
 		"syncShort": "Synchroniseren",
-		"profiles": "CritterDex wordt gemaakt door"
+		"profiles": "CritterDex wordt gemaakt door",
+		"tipIntro": "CritterDex is ontwikkeld door slechts twee personen. Hoewel het gratis is om te gebruiken, als u uw steun wilt laten zien, kunt u ons een donatie achterlaten. Het wordt veel gewaardeerd!",
+		"tipSmall": "Klein",
+		"tipMedium": "Medium",
+		"tipLarge": "Groot",
+		"tipLegal": "Prijzen zijn ingesteld in USD. CritterDex is gratis te gebruiken en vereist geen betaling. Als u problemen ondervindt, neem dan contact op met",
+		"tipSupport": "Steun"
 	},
 	"creatures": {
 		"582": "bruine cicade",

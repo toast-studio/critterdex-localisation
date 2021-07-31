@@ -217,6 +217,7 @@
 		"language": "語言",
 		"about": "關於CritterDex",
 		"linkSettings": "設定值",
+		"linkTipJar": "捐贈",
 		"linkVersionHistory": "版本記錄",
 		"linkSupport": "反饋與支持",
 		"linkPrivacy": "閱讀隱私權政策",
@@ -226,11 +227,18 @@
 		"resetStatus": "重置所有生物",
 		"legal": "動物穿越的內容©2001 Nintendo。 使用動物穿越內容無意侵犯版權或商標。",
 		"version": "版",
+		"updateCheck": "檢查更新",
 		"messageTranslation": "如果您發現翻譯有誤，請",
 		"linkTranslation": "提交更正",
 		"sync": "同步捕獲狀態",
 		"syncShort": "同步",
-		"profiles": "CritterDex由製作"
+		"profiles": "CritterDex由製作",
+		"tipIntro": "CritterDex由兩個人開發。雖然可以自由使用，但如果您想展示您的支持，您可以捐贈給我們。它非常感謝！",
+		"tipSmall": "小的",
+		"tipMedium": "中等的",
+		"tipLarge": "大的",
+		"tipLegal": "價格已於USD中設置。 CritterDex可以自由使用，不需要付款。如果您有任何問題，請聯繫",
+		"tipSupport": "支持"
 	},
 	"creatures": {
 		"582": "油蟬",

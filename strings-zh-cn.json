@@ -217,6 +217,7 @@
 		"language": "语言",
 		"about": "关于CritterDex",
 		"linkSettings": "设定值",
+		"linkTipJar": "捐赠",
 		"linkVersionHistory": "版本记录",
 		"linkSupport": "反馈与支持",
 		"linkPrivacy": "阅读隐私权政策",
@@ -226,11 +227,18 @@
 		"resetStatus": "重置所有生物",
 		"legal": "动物穿越的内容©2001 Nintendo。 禁止使用Animal Crossing内容侵犯版权或商标。",
 		"version": "版",
+		"updateCheck": "检查更新",
 		"messageTranslation": "如果您发现翻译错误，请",
 		"linkTranslation": "提交更正",
 		"sync": "同步捕获状态",
 		"syncShort": "同步",
-		"profiles": "CritterDex由制作"
+		"profiles": "CritterDex由制作",
+		"tipIntro": "CritterDex由两个人开发。虽然可以自由使用，但如果您想展示您的支持，您可以捐赠给我们。它非常感谢！",
+		"tipSmall": "小的",
+		"tipMedium": "中等的",
+		"tipLarge": "大的",
+		"tipLegal": "价格已于USD中设置。 CritterDex可以自由使用，不需要付款。如果您有任何问题，请联系",
+		"tipSupport": "支持"
 	},
 	"creatures": {
 		"582": "油蝉",

@@ -217,6 +217,7 @@
 		"language": "Sprache",
 		"about": "Über CritterDex",
 		"linkSettings": "Einstellungen",
+		"linkTipJar": "Spenden",
 		"linkVersionHistory": "Versionsgeschichte",
 		"linkSupport": "Feedback und Unterstützung",
 		"linkPrivacy": "Lese die Datenschutzbestimmungen",
@@ -226,11 +227,18 @@
 		"resetStatus": "Setze alle Tiere zurück",
 		"legal": "Animal Crossing-Inhalt © 2001 Nintendo. Bei der Verwendung von Animal Crossing-Inhalten ist keine Urheberrechts- oder Markenrechtsverletzung beabsichtigt.",
 		"version": "Ausführung",
+		"updateCheck": "Auf Updates prüfen",
 		"messageTranslation": "Wenn Sie Fehler bei Übersetzungen finden, bitte",
 		"linkTranslation": "korrekturen einreichen",
 		"sync": "Fangstatus synchronisieren",
 		"syncShort": "Synchronisieren",
-		"profiles": "CritterDex wird in Handarbeit von"
+		"profiles": "CritterDex wird in Handarbeit von",
+		"tipIntro": "CritterDex wird von nur zwei Personen entwickelt. Es ist zwar frei zu verwenden, wenn Sie Ihre Unterstützung zeigen möchten, können Sie uns eine Spende hinterlassen. Es ist sehr geschätzt!",
+		"tipSmall": "Klein",
+		"tipMedium": "Mittel",
+		"tipLarge": "Groß",
+		"tipLegal": "Die Preise sind in USD eingestellt. CritterDex ist frei zu verwenden und erfordert keine Zahlung. Wenn Sie Probleme haben, wenden Sie sich bitte an",
+		"tipSupport": "Die Unterstützung"
 	},
 	"creatures": {
 		"582": "Braunzikade",

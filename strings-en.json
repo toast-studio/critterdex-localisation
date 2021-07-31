@@ -217,6 +217,7 @@
 		"language": "Language",
 		"about": "About CritterDex",
 		"linkSettings": "Settings",
+		"linkTipJar": "Tip Jar",
 		"linkVersionHistory": "Version History",
 		"linkSupport": "Feedback and Support",
 		"linkPrivacy": "Read Privacy Policy",
@@ -226,11 +227,18 @@
 		"resetStatus": "Reset all critters",
 		"legal": "Animal Crossing content ©2001 Nintendo. No copyright or trademark infringement is intended in using Animal Crossing content.",
 		"version": "Version",
+		"updateCheck": "Check for Updates",
 		"messageTranslation": "If you find any errors with translations, please",
 		"linkTranslation": "submit corrections",
 		"sync": "Sync Catch Status",
 		"syncShort": "Sync",
-		"profiles": "CritterDex is crafted by"
+		"profiles": "CritterDex is crafted by",
+		"tipIntro": "CritterDex is developed by just two people. While it is free to use, if you want to show your support you can leave us a tip. It’s much appreciated!",
+		"tipSmall": "Small",
+		"tipMedium": "Medium",
+		"tipLarge": "Large",
+		"tipLegal": "Prices are set in USD. CritterDex is free to use and does not require payment. If you have any issues, please contact",
+		"tipSupport": "Support"
 	},
 	"creatures": {
 		"582": "brown cicada",

@@ -216,6 +216,7 @@
 		"language": "Langue",
 		"about": "À propos de Critterdex",
 		"linkSettings": "Réglages",
+		"linkTipJar": "Des Dons",
 		"linkVersionHistory": "Historique des versions",
 		"linkSupport": "Commentaires et assistance",
 		"linkPrivacy": "Lire la politique de confidentialité",
@@ -225,11 +226,18 @@
 		"resetStatus": "Réinitialiser toutes les captures",
 		"legal": "Contenu Animal Crossing © 2001 Nintendo. Aucune violation des droits d'auteur ou des marques n'est voulue dans l'utilisation du contenu Animal Crossing.",
 		"version": "Version",
+		"updateCheck": "Vérifier les Mises à Jour",
 		"messageTranslation": "Si vous trouvez des erreurs dans les traductions, veuillez",
 		"linkTranslation": "soumettre des corrections",
 		"sync": "Synchroniser les captures",
 		"syncShort": "Sync",
-		"profiles": "CritterDex est conçu par"
+		"profiles": "CritterDex est conçu par",
+		"tipIntro": "CritterDex est développé par seulement deux personnes. Bien qu'il soit libre d'utiliser, si vous souhaitez montrer votre soutien, vous pouvez nous laisser un don. C'est très apprécié!",
+		"tipSmall": "Petit",
+		"tipMedium": "Moyen",
+		"tipLarge": "Grande",
+		"tipLegal": "Les prix sont définis en USD. CritterDex est libre d'utiliser et ne nécessite pas de paiement. Si vous avez des problèmes, veuillez contacter",
+		"tipSupport": "Support"
 	},
 	"creatures": {
 		"582": "cigale cercope",

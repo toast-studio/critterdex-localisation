@@ -217,6 +217,7 @@
 		"language": "言語",
 		"about": "CritterDexについて",
 		"linkSettings": "設定",
+		"linkTipJar": "寄付金",
 		"linkVersionHistory": "履歴バージョン",
 		"linkSupport": "フィードバックとサポート",
 		"linkPrivacy": "プライバシーポリシーを読む",
@@ -226,11 +227,18 @@
 		"resetStatus": "すべての生き物をリセット",
 		"legal": "どうぶつの森のコンテンツ©2001 Nintendo。 どうぶつの森コンテンツの使用において、著作権または商標の侵害は意図されていません。",
 		"version": "バージョン",
+		"updateCheck": "更新を確認する",
 		"messageTranslation": "翻訳でエラーが見つかった場合は、",
 		"linkTranslation": "修正を送信する",
 		"sync": "同期キャッチ状況",
 		"syncShort": "同期",
-		"profiles": "CritterDexがで細工されました"
+		"profiles": "CritterDexがで細工されました",
+		"tipIntro": "CritterDexはたった2人の人々によって開発されています。あなたがあなたのサポートを見せたいのなら、あなたが私たちに寄付を残すことができます。それほど高く評価されています！",
+		"tipSmall": "小さな",
+		"tipMedium": "中くらい",
+		"tipLarge": "大きい",
+		"tipLegal": "価格は米ドルで設定されています。 CritterDexは無料使用できず、支払いは必要ありません。問題がある場合は、お問い合わせください",
+		"tipSupport": "サポート"
 	},
 	"creatures": {
 		"582": "アブラゼミ",
